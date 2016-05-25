@@ -1,14 +1,12 @@
-
-
 # Site settings
-title: My Protfolio (Saugat Tripathi)
+title:  My Protfolio (Saugat Tripathi)
 email: tripathi.saugat@gmail.com
-description: >
-This is my (Saugat Tripathi's) portfolio. Saugat is rising juniour at Howard University, who is studying Computer Science.
-Saugat Tripathi likes to experiment with new technologies and Saugat finds working with computers satisfying. 
-# (For anyone baffled my repeated use of my name, I am doing this for google search) 
-  
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: > # this means to ignore newlines until "baseurl:"
+  This is my (Saugat Tripathi's) portfolio. Saugat is rising juniour at
+  Howard University, who is studying Computer Science.Saugat Tripathi 
+  likes to experiment with new technologies and Saugat finds working with
+  computers satisfying. 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://saugat.me" # the base hostname & protocol for your site
 twitter_username: saugatripathi
 github_username:  saugatt
