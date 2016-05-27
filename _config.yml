@@ -45,9 +45,8 @@ social:
     url: http://twitter.com/saugatripathi
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  
+  - title: code
+    url: https://codecademy.com/saugat-t
 # Postal address (add as many lines as necessary)
 address:
   - line: 601 Fiarmont St. NW
