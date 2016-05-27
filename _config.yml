@@ -7,8 +7,7 @@ skills: "<b>This site is under construction </b>"
 meta_author: Tripathi Saugat
 
 # Google webmaster tools
-google_verify:
-
+google-site-verification=V6NF-l5QYxvv_U6OL_bDzjpI6MpmDnKHfjRu43aLpi0
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
