@@ -1,15 +1,62 @@
 # Site settings
-title:  My Protfolio (Saugat Tripathi)
+title: Saugat Tripathi
 email: tripathi.saugat@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  This is my (Saugat Tripathi's) portfolio. Saugat is rising juniour at
-  Howard University, who is studying Computer Science.Saugat Tripathi 
-  likes to experiment with new technologies and Saugat finds working with
-  computers satisfying. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://saugat.me" # the base hostname & protocol for your site
-twitter_username: saugatripathi
-github_username:  saugatt
+url: https://example.github.io
+description: "SaugatTripathi Portfolio Resume/Howard University/HU "
+skills: "Web Developer - Full Stack Development - Mobile Development"
+meta_author: Tripathi Saugat
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: saugatsportfolio
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Saugat Triapthi
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/saugatt
+  - title: linkedin
+    url: https://www.linkedin.com/in/tripathisaugat
+  - title: twitter
+    url: http://twitter.com/saugatripathi
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  
+# Postal address (add as many lines as necessary)
+address:
+  - line: 601 Fiarmont St. NW
+  - line: Washington, DC 20059
+
+# Credits content
+credits: 'Bootstrap Theme (Freelancer) by <a href="http://startbootstrap.com">Start Bootstrap</a>. has been used to make this website'
 
 # Build settings
 markdown: kramdown
+permalink: pretty
