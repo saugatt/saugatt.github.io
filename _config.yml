@@ -23,7 +23,7 @@ disqus_shortname: saugatsportfolio
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 49A0B8 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
@@ -44,7 +44,7 @@ social:
   - title: twitter
     url: http://twitter.com/saugatripathi
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/
   - title: code
     url: https://codecademy.com/saugat-t
 # Postal address (add as many lines as necessary)
