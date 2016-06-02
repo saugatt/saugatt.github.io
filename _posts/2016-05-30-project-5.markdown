@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date:  2016-05-30
+img: mean_stack.jpg
+alt: Mean Stack Development
+project-date: April 2014
+client: Start Bootstrap
+category: Full Stack Development
+description: This is Saugat's Website
+---

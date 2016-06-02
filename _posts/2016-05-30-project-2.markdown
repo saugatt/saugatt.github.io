@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2016-05-30
+img: git.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: This is Saugat's Website
+
+---

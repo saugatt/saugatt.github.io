@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date:  2016-05-30
+img: python.jpg
+alt: Python Logo
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: This is Saugat's Website
+---
